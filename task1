@@ -1,0 +1,15 @@
+Task 1: ADR Identification Basics
+
+Patient Scenario
+Patient: Female, 45 years old
+Symptoms: Rash, itchy skin, and dizziness
+Medication History: 
+  * Amoxicillin (started 5 days ago)
+  * Paracetamol (as needed)
+Timeline:
+  * Day -5: Amoxicillin started
+  * Day -2: Symptoms began
+
+Analysis & Conclusion
+Is the reaction drug-related?- Yes, the timeline matches closely.
+Suspected Drug: Amoxicillin
